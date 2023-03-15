@@ -1,0 +1,12 @@
+{
+    "name": "feycot/websocket-with-php",
+    "authors": [
+        {
+            "name": "feycot",
+            "email": "feycot@gmail.com"
+        }
+    ],
+    "require": {
+        "openswoole/core": "22.1.2"
+    }
+}
